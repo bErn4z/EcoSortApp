@@ -4,7 +4,7 @@ Aplicação web do projeto EcoSort (Inteligência Computacional 2026/27, ISEC).
 Classifica fotografias de resíduos em 12 classes com um modelo de *transfer learning*
 e sugere o ecoponto adequado.
 
-**Aplicação pública:** _(link a acrescentar depois do deploy)_
+**Aplicação pública:** https://ecosortapp-gn7lwjwblo3vxg8wm9gkum.streamlit.app/
 
 Autores: Bernardo Vasconcelos (2024128419) e Miguel Bernardes (2024134199).
 
